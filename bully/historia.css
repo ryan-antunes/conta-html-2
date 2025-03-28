@@ -1,0 +1,56 @@
+@font-face {
+    font-family: bully;
+    src: url(../bully/Serifa.ttf);
+}
+html{
+    background-color: rgba(27, 17, 3, 0.945);
+}
+body{
+    margin: 0%;
+
+    margin-top: 0%;
+}
+.texto2{
+    display: flex;
+}
+.texto2 p{
+    color: rgb(255, 255, 255);
+    margin: 2%;
+    width: 100%;
+    padding-left: 6px;
+    font-family: bully;
+    height: 100%;
+    font-size: x-large;
+    border: 5px solid rgb(129, 105, 61);
+}
+.titulo{
+    color: rgb(255, 255, 255);
+    display:flex;
+    width: 40%
+}
+.cabecario{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.cabecario .til{
+    width: 215px;
+}
+.menu{
+    display: flex;
+    
+}
+.menu li a{
+    color: white;
+    margin: 20px
+}
+
+.junt{
+    display: flex;
+}
+
+.junt div{
+    display: flex;
+    flex-direction: column;
+}
