@@ -23,7 +23,7 @@ body{
     font-size: xx-large;
 }
 .texto2 img{
-    border: 5px solid white;
+    border: 5px solid rgb(9, 44, 216);
 }
 .texto3{
     display: flex;
@@ -43,7 +43,7 @@ body{
     text-align: end;
 }
 .texto3 img{
-    border: 5px solid white;
+    border: 5px solid rgb(9, 44, 216);
 }
 .texto4{
     display: flex;
@@ -61,7 +61,7 @@ body{
     color: white;
 }
 .texto4 img{
-    border: 5px solid white;
+    border: 5px solid rgb(9, 44, 216);
 }
 .texto5{
     display: flex;
@@ -78,7 +78,7 @@ body{
     text-align: end;
 }
 .texto5 img{
-    border: 5px solid white;
+    border: 5px solid rgb(255, 255, 255);
 }
 .texto6{
     display: flex;
@@ -93,7 +93,7 @@ body{
     font-size: xx-large;
 }
 .texto6 img{
-    border: 5px solid white;
+    border: 5px solid rgb(45, 118, 236);
 }
 .texto7{
     display: flex;
@@ -110,7 +110,7 @@ body{
     text-align: end;
 }
 .texto7 img{
-    border: 5px solid white;
+    border: 5px solid rgb(0, 0, 0);
 }
 .texto8{
     display: flex;
@@ -125,7 +125,7 @@ body{
     font-size: xx-large;
 }
 .texto8 img{
-    border: 5px solid white;
+    border: 5px solid rgb(37, 172, 10);
 }
 .texto9{
     display: flex;
@@ -142,7 +142,7 @@ body{
     text-align: end;
 }
 .texto9 img{
-    border: 5px solid white;
+    border: 5px solid rgb(10, 20, 153);
 }
 .texto10{
     display: flex;
@@ -157,7 +157,7 @@ body{
     font-size: xx-large;
 }
 .texto10 img{
-    border: 5px solid white;
+    border: 5px solid rgb(214, 108, 28);
 }
 .titulo{
     color: rgb(255, 255, 255);
