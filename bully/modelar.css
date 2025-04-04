@@ -11,6 +11,21 @@ body{
 
     margin-top: 0%;
 }
+.texto2{
+    display: flex;
+    gap: 10px;
+}
+.texto2 p{
+    color: rgb(255, 255, 255);
+    margin: 6%;
+    width: 100%;
+    padding-left: 3px;
+    font-family: bully;
+    height: 100%;
+    font-size: xx-large;
+    border: 5px solid rgb(120, 105, 19);
+
+}
 a{
     text-decoration: none;
 }

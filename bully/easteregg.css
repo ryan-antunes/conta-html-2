@@ -25,6 +25,7 @@ body{
 .video{
     display: flex;
     justify-content: center;
+    padding-bottom: 20px;
 }
 
 .texto p{
@@ -41,6 +42,44 @@ body{
 }
 a{
     text-decoration: none;
+}
+.junt{
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.junt img{
+    display: flex;
+    width: 700px;
+}
+.junt img:hover{
+    transform: scale(1.1);
+    z-index: 10;
+} 
+.junt .ia{
+    border: 5px solid rgb(87, 167, 159);
+    width: 700px;
+}
+
+.junt .ib{
+    border: 5px solid rgb(87, 167, 159);
+    width: 700px;
+}
+.junt .ie{
+    border: 5px solid rgb(87, 167, 159);
+    width: 700px;
+}
+.junt .iu{
+    border: 5px solid rgb(87, 167, 159);
+    width: 700px;
+}
+
+
+.junt div{
+    display: flex;
+    flex-direction: column;
 }
 .titulo{
     color: rgb(255, 255, 255);
