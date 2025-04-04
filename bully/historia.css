@@ -25,6 +25,9 @@ body{
     font-size: x-large;
     border: 5px solid rgb(200, 13, 194);
 }
+a{
+    text-decoration: none;
+}
 .titulo{
     color: rgb(255, 255, 255);
     display:flex;
