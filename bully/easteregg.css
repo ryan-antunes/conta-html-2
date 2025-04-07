@@ -3,7 +3,7 @@
     src: url(../bully/Serifa.ttf);
 }
 html{
-    background-color: rgb(11, 19, 17);
+    background-color: rgb(18, 1, 17);
 }
 body{
     margin: 0%;
@@ -59,20 +59,20 @@ a{
     z-index: 10;
 } 
 .junt .ia{
-    border: 5px solid rgb(87, 167, 159);
+    border: 5px solid rgb(200, 13, 194);
     width: 700px;
 }
 
 .junt .ib{
-    border: 5px solid rgb(87, 167, 159);
+    border: 5px solid rgb(200, 13, 194);
     width: 700px;
 }
 .junt .ie{
-    border: 5px solid rgb(87, 167, 159);
+    border: 5px solid rgb(200, 13, 194);
     width: 700px;
 }
 .junt .iu{
-    border: 5px solid rgb(87, 167, 159);
+    border: 5px solid rgb(200, 13, 194);
     width: 700px;
 }
 
