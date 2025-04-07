@@ -13,7 +13,7 @@ body{
 .texto2{
     display: flex;
     gap: 10px;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 }
 .texto2 p{
     color: rgb(255, 255, 255);
