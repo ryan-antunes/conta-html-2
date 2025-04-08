@@ -62,7 +62,7 @@ a{
 }
 .junt img{
     display: flex;
-    width: 700px;   
+    width: 530px;   
     
 }
 .junt img:hover{
@@ -84,7 +84,12 @@ a{
 .junt .iu{
     border: 5px solid rgb(154, 24, 17);
 }
-
+.junt .io{
+    border: 5px solid rgb(154, 24, 17);
+}
+.junt .iz{
+    border: 5px solid rgb(154, 24, 17);
+}
 
 .junt div{
     display: flex;
